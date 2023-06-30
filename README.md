@@ -1,7 +1,7 @@
 # Requisitos do Trabalho de Teoria dos Grafos
 
 Você deve implementar uma ferramenta chamada "grafos" com intereface em linha de comando. Abaixo estão exemplo de chamadas da ferramenta:
-grafos carrregar arquivo.json //deve carregar os grafos contidos no arquivo .json
+\n grafos carrregar arquivo.json //deve carregar os grafos contidos no arquivo .json
 grafos multigrafos //deve informar quais grafos do arquivo carregado são multigrafos
 grafos pseudografos //deve informar quais grafos do arquivo carregado são pseudografos
 grafos desconexos //deve informar quais grafos do arquivo carregado são desconexos
