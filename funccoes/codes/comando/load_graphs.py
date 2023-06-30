@@ -1,5 +1,6 @@
 import json
 
+#Função para ler arquivo JSON
 def load_graphs_from_file(filename):
     try:
         with open(filename, 'r') as file:

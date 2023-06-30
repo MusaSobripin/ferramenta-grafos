@@ -1,3 +1,4 @@
+#Função que verifica os graus de cada grafo a partir do ID informado
 def get_vertex_degrees(graphs, graph_id):
         
         # Procurar o grafo pelo ID na lista de grafos

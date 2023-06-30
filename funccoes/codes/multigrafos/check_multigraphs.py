@@ -1,3 +1,4 @@
+#Função que checa se o grafo é multigrafo ou não
 def check_multigraphs(graphs):
     # Lista para armazenar os identificadores dos multigrafos
     multigraphs = []
