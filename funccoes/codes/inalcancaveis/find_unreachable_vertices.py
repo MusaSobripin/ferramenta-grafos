@@ -1,4 +1,3 @@
-#Função que informa quais vértices do grafo são inalcançáveis a partir do vértice = A
 def find_unreachable_vertices(graphs, graph_id, starting_vertex):
     found_graph = False
     

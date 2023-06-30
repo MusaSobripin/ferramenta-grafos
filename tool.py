@@ -30,17 +30,17 @@ if __name__ == '__main__':
     main()
 
 """
---------- Comandos para execução ---------
-| grafos carregar graphs.json             | 
-| grafos multigrafos                      |
-| grafos pseudografos                     |
-| grafos desconexos                       |
-| grafos completos                        |
-| grafos graus id=1                       |
-| grafos grau id=1 vertice="A"            |
-| grafos alcancaveis id=1 partida="A"     |
-| grafos inalcancaveis id=1 partida="A"   |
-| grafos bfs id=1 partida="A" chegada="A" |
-| grafos dfs id=1 partida="A" chegada="A" |
--------------------------------------------
+                            ------------ Comandos para execução ------------
+                            | grafos carregar graphs.json                      | 
+                            | grafos multigrafos                                  |
+                            | grafos pseudografos                                 |
+                            | grafos desconexos                                   |
+                            | grafos completos                                    |
+                            | grafos graus id=1                                   |
+                            | grafos grau id=1 vertice="A"                        |
+                            | grafos alcancaveis id=1 partida="A"                 |
+                            | grafos inalcancaveis id=1 partida="A"               |
+                            | grafos bfs id=1 partida="A" chegada="A"             |
+                            | grafos dfs id=1 partida="A" chegada="A"             |
+                            ------------------------------------------------
 """

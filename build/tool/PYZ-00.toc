@@ -1,6 +1,5 @@
 ('C:\\Users\\moise\\OneDrive\\Documentos\\Ciência da Computação\\BLOCO '
- '7\\Teoria dos Grafos\\Ferramenta Grafos - '
- 'Trabalho\\ferramenta\\build\\tool\\PYZ-00.pyz',
+ '7\\Teoria dos Grafos\\Ferramenta Grafos\\build\\tool\\PYZ-00.pyz',
  [('_compat_pickle',
    'C:\\Users\\moise\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_compat_pickle.py',
    'PYMODULE'),
@@ -132,78 +131,76 @@
   ('funccoes.codes.alcancaveis', '-', 'PYMODULE'),
   ('funccoes.codes.alcancaveis.find_reachable_vertices',
    'C:\\Users\\moise\\OneDrive\\Documentos\\Ciência da Computação\\BLOCO '
-   '7\\Teoria dos Grafos\\Ferramenta Grafos - '
-   'Trabalho\\ferramenta\\funccoes\\codes\\alcancaveis\\find_reachable_vertices.py',
+   '7\\Teoria dos Grafos\\Ferramenta '
+   'Grafos\\funccoes\\codes\\alcancaveis\\find_reachable_vertices.py',
    'PYMODULE'),
   ('funccoes.codes.bfs', '-', 'PYMODULE'),
   ('funccoes.codes.bfs.bfs',
    'C:\\Users\\moise\\OneDrive\\Documentos\\Ciência da Computação\\BLOCO '
-   '7\\Teoria dos Grafos\\Ferramenta Grafos - '
-   'Trabalho\\ferramenta\\funccoes\\codes\\bfs\\bfs.py',
+   '7\\Teoria dos Grafos\\Ferramenta Grafos\\funccoes\\codes\\bfs\\bfs.py',
    'PYMODULE'),
   ('funccoes.codes.comando', '-', 'PYMODULE'),
   ('funccoes.codes.comando.command',
    'C:\\Users\\moise\\OneDrive\\Documentos\\Ciência da Computação\\BLOCO '
-   '7\\Teoria dos Grafos\\Ferramenta Grafos - '
-   'Trabalho\\ferramenta\\funccoes\\codes\\comando\\command.py',
+   '7\\Teoria dos Grafos\\Ferramenta '
+   'Grafos\\funccoes\\codes\\comando\\command.py',
    'PYMODULE'),
   ('funccoes.codes.comando.load_graphs',
    'C:\\Users\\moise\\OneDrive\\Documentos\\Ciência da Computação\\BLOCO '
-   '7\\Teoria dos Grafos\\Ferramenta Grafos - '
-   'Trabalho\\ferramenta\\funccoes\\codes\\comando\\load_graphs.py',
+   '7\\Teoria dos Grafos\\Ferramenta '
+   'Grafos\\funccoes\\codes\\comando\\load_graphs.py',
    'PYMODULE'),
   ('funccoes.codes.completos', '-', 'PYMODULE'),
   ('funccoes.codes.completos.check_complete_graphs',
    'C:\\Users\\moise\\OneDrive\\Documentos\\Ciência da Computação\\BLOCO '
-   '7\\Teoria dos Grafos\\Ferramenta Grafos - '
-   'Trabalho\\ferramenta\\funccoes\\codes\\completos\\check_complete_graphs.py',
+   '7\\Teoria dos Grafos\\Ferramenta '
+   'Grafos\\funccoes\\codes\\completos\\check_complete_graphs.py',
    'PYMODULE'),
   ('funccoes.codes.desconexos', '-', 'PYMODULE'),
   ('funccoes.codes.desconexos.check_disconnected_graphs',
    'C:\\Users\\moise\\OneDrive\\Documentos\\Ciência da Computação\\BLOCO '
-   '7\\Teoria dos Grafos\\Ferramenta Grafos - '
-   'Trabalho\\ferramenta\\funccoes\\codes\\desconexos\\check_disconnected_graphs.py',
+   '7\\Teoria dos Grafos\\Ferramenta '
+   'Grafos\\funccoes\\codes\\desconexos\\check_disconnected_graphs.py',
    'PYMODULE'),
   ('funccoes.codes.desconexos.is_connected',
    'C:\\Users\\moise\\OneDrive\\Documentos\\Ciência da Computação\\BLOCO '
-   '7\\Teoria dos Grafos\\Ferramenta Grafos - '
-   'Trabalho\\ferramenta\\funccoes\\codes\\desconexos\\is_connected.py',
+   '7\\Teoria dos Grafos\\Ferramenta '
+   'Grafos\\funccoes\\codes\\desconexos\\is_connected.py',
    'PYMODULE'),
   ('funccoes.codes.dfs', '-', 'PYMODULE'),
   ('funccoes.codes.dfs.dsf',
    'C:\\Users\\moise\\OneDrive\\Documentos\\Ciência da Computação\\BLOCO '
-   '7\\Teoria dos Grafos\\Ferramenta Grafos - '
-   'Trabalho\\ferramenta\\funccoes\\codes\\dfs\\dsf.py',
+   '7\\Teoria dos Grafos\\Ferramenta Grafos\\funccoes\\codes\\dfs\\dsf.py',
    'PYMODULE'),
   ('funccoes.codes.grau', '-', 'PYMODULE'),
   ('funccoes.codes.grau.get_vertex_degree',
    'C:\\Users\\moise\\OneDrive\\Documentos\\Ciência da Computação\\BLOCO '
-   '7\\Teoria dos Grafos\\Ferramenta Grafos - '
-   'Trabalho\\ferramenta\\funccoes\\codes\\grau\\get_vertex_degree.py',
+   '7\\Teoria dos Grafos\\Ferramenta '
+   'Grafos\\funccoes\\codes\\grau\\get_vertex_degree.py',
    'PYMODULE'),
   ('funccoes.codes.graus', '-', 'PYMODULE'),
   ('funccoes.codes.graus.get_vertex_degrees',
    'C:\\Users\\moise\\OneDrive\\Documentos\\Ciência da Computação\\BLOCO '
-   '7\\Teoria dos Grafos\\Ferramenta Grafos - '
-   'Trabalho\\ferramenta\\funccoes\\codes\\graus\\get_vertex_degrees.py',
+   '7\\Teoria dos Grafos\\Ferramenta '
+   'Grafos\\funccoes\\codes\\graus\\get_vertex_degrees.py',
    'PYMODULE'),
   ('funccoes.codes.inalcancaveis', '-', 'PYMODULE'),
   ('funccoes.codes.inalcancaveis.find_unreachable_vertices',
    'C:\\Users\\moise\\OneDrive\\Documentos\\Ciência da Computação\\BLOCO '
-   '7\\Teoria dos Grafos\\Ferramenta Grafos - '
-   'Trabalho\\ferramenta\\funccoes\\codes\\inalcancaveis\\find_unreachable_vertices.py',
+   '7\\Teoria dos Grafos\\Ferramenta '
+   'Grafos\\funccoes\\codes\\inalcancaveis\\find_unreachable_vertices.py',
    'PYMODULE'),
   ('funccoes.codes.multigrafos', '-', 'PYMODULE'),
   ('funccoes.codes.multigrafos.check_multigraphs',
    'C:\\Users\\moise\\OneDrive\\Documentos\\Ciência da Computação\\BLOCO '
-   '7\\Teoria dos Grafos\\Ferramenta Grafos - '
-   'Trabalho\\ferramenta\\funccoes\\codes\\multigrafos\\check_multigraphs.py',
+   '7\\Teoria dos Grafos\\Ferramenta '
+   'Grafos\\funccoes\\codes\\multigrafos\\check_multigraphs.py',
    'PYMODULE'),
   ('funccoes.codes.pseudografos', '-', 'PYMODULE'),
   ('funccoes.codes.pseudografos.check_pseudogaphs',
    'C:\\Users\\moise\\OneDrive\\Documentos\\Ciência da Computação\\BLOCO '
-   '7\\Teoria dos Grafos\\Ferramenta Grafos - '
-   'Trabalho\\ferramenta\\funccoes\\codes\\pseudografos\\check_pseudogaphs.py',
+   '7\\Teoria dos Grafos\\Ferramenta '
+   'Grafos\\funccoes\\codes\\pseudografos\\check_pseudogaphs.py',
    'PYMODULE'),
   ('getopt',
    'C:\\Users\\moise\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\getopt.py',

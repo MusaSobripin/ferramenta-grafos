@@ -1,4 +1,3 @@
-#Função que checa se o grafo é pseudografo ou não
 def check_pseudographs(graphs):
     # Lista para armazenar os identificadores dos pseudografos
     pseudographs = []

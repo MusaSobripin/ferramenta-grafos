@@ -11,7 +11,7 @@ from funccoes.codes.inalcancaveis.find_unreachable_vertices import find_unreacha
 from funccoes.codes.multigrafos.check_multigraphs import check_multigraphs
 from funccoes.codes.pseudografos.check_pseudogaphs import check_pseudographs
 
-#Comandos para execução dos grafos
+
 def command_handler(command, graphs):
     if command[0] == 'grafos':
         if len(command) == 3 and command[1] == 'carregar':

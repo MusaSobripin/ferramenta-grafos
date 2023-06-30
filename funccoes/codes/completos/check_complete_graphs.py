@@ -1,4 +1,3 @@
-#Função para checar se o grafo é completo ou não
 def check_complete_graphs(graphs):
     complete_graphs = [graph['id'] for graph in graphs if is_complete(graph['vertices'], graph['edges'])]
     if complete_graphs:
@@ -6,7 +5,6 @@ def check_complete_graphs(graphs):
     else:
         print("Nenhum grafo completo encontrado.")
 
-#Função auxiliar "É completo"
 def is_complete(vertices, edges):
     if not vertices:
         return False

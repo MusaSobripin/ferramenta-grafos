@@ -1,4 +1,3 @@
-#Função que informar quais vértices do grafo são alcançáveis a partir do vértice = A
 def find_reachable_vertices(graphs, graph_id, starting_vertex):
     found_graph = False
     

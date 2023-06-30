@@ -1,4 +1,3 @@
-#Função que verifica o grau dos vértices dos grafos
 def get_vertex_degree(graphs, graph_id, vertex):
         
         # Procurar o grafo pelo ID na lista de grafos
