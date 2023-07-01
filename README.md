@@ -24,6 +24,6 @@
 
 > - `grafos dfs partida="A" chegada="B"` //deve informar o caminho partindo do vértice = A até chegar no vértice=B usando o algoritmo DFS.
 
-> - > - `grafos --h` //comando adicional (extra) - comando de ajuda para saber quais entradas usar ao executar o arquivo
+> - `grafos --help` //comando adicional (extra) - comando de ajuda para saber quais entradas usar ao executar o arquivo
 
 > - `grafos sair` // finaliza a execução da ferramenta
