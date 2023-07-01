@@ -49,6 +49,8 @@ def command_handler(command, graphs):
             start_vertex = command[3].split('=')[1].strip('"')
             end_vertex = command[4].split('=')[1].strip('"')
             dfs(graphs, graph_id, start_vertex, end_vertex)
+        elif command[1] == '--h':
+            print('Use: grafos [carregar arquivo.json] [multigrafos] [pseudografos] \n[desconexos] [completos] [graus id=1] \n[grau id=1 vertice="A" ] [inalcancaveis id=1 partida="A"] \n[bfs id=1 partida="A" chegada="A"] [dfs id=1 partida="A" chegada="A"] [sair]')
         elif command[1] == 'sair':
             sys.exit()
         else:
